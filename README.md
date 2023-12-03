@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Dark
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-ـ
-<!---
-Darkstorm55/Darkstorm55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 مرحبا, أنا (داركستورم
+ 👀 أنا مهتم ب الهاك
+ 🌱 انا استمتع بيومي مع هاتفي وpc الهاص بي 🫶🏻
+ 💞️ يتم تكوين تيم  باسم استورم الفرعون 
+ 📫 يشرفني  ازادا من خبرتك 🫶🏻✨
+ ـ
+ <! --
+ Darkstorm55/Darkstorm55 هو مستودع ✨ ✨ خاص لأنه 'README. md '(هذا الملف) يظهر على ملفك الشخصي GitHub.
+ يمكنك النقر فوق الرابط معاينة لإلقاء نظرة على التغييرات التي أجريتها
+ -->
